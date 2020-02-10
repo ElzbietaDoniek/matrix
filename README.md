@@ -1,8 +1,6 @@
 # Projekt transformacja, czyli Matrix - poznaj zasady gry
 
 Matrix DataWorkshop - 5dniowe wyzwanie
-1) Dzień 1
-2) Dzień 2 
-Dzień 3
-Dzień 4
-Dzień 5
+1) część pierwsza
+2) część druga
+3) część trzecia
